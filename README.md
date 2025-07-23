@@ -10,6 +10,8 @@
    - create a virtual environment
    - Install all the requirements [ requirements.txt ]
    - Create a .env file [ hold the openai api key ]
+   - [ main.ipynb ] file holds the main code for this project.
+   - [ test.py ] is created to implement UI (using Streamlit ) and api implementation.
 
 2. Tools Used
    - Language Model : OpenAI GPT
