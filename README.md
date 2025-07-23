@@ -5,10 +5,10 @@
 <img width="589" height="766" alt="RAG - visual selection" src="https://github.com/user-attachments/assets/04d83dd5-10f6-4fc2-bf39-ad2b3c216503" />
 
 1. Setup Guide
-   1.1 Clone the repository
-   1.2 create a virtual environment
-   1.3 Install all the requirements [ requirements.txt ]
-   1.4 Create a .env file [ hold the openai api key ]
+   - Clone the repository
+   - create a virtual environment
+   - Install all the requirements [ requirements.txt ]
+   - Create a .env file [ hold the openai api key ]
 
 2. Tools Used
    - Language Model : OpenAI GPT
