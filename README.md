@@ -2,7 +2,8 @@
 
 * RAG Pipeline : 
    
-<img width="589" height="766" alt="RAG - visual selection" src="https://github.com/user-attachments/assets/04d83dd5-10f6-4fc2-bf39-ad2b3c216503" />
+
+<img width="589" height="723" alt="RAG - visual selection" src="https://github.com/user-attachments/assets/10d5a683-ea72-4c07-8039-1ddcb615c880" />
 
 1. Setup Guide
    - Clone the repository
