@@ -1,6 +1,6 @@
-# RAG-Projects
 
-# Rag Pipeline : 
+
+* RAG Pipeline : 
    
 <img width="589" height="766" alt="RAG - visual selection" src="https://github.com/user-attachments/assets/04d83dd5-10f6-4fc2-bf39-ad2b3c216503" />
 
