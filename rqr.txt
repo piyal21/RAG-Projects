@@ -1,0 +1,11 @@
+streamlit
+langchain
+faiss-cpu
+fitz
+sentence-transformers
+openai
+numpy
+nltk
+tiktoken
+sentencepiece
+flask
