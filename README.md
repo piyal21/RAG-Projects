@@ -26,4 +26,7 @@
    - Description: This FLASK API accepts a user query and returns an answer generated from the most relevant context in the document using a RAG (Retrieval-Augmented Generation) pipeline.
 
 5. Evaluation Metrics
-  - Groundness score is calculated in the [Rag-_evaluation.ipynb] file
+  - Groundness score is calculated in the [Rag_evaluation.ipynb] file
+
+
+
