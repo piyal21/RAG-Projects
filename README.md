@@ -19,20 +19,11 @@
    - Coding Environment : VS Code
 
 3. Sample Questions / Query
-   user query : বিয়ের সময় কল্যাণীর প্রকৃত বয়স কত ছিল?
-   output : ১৫ বছর
+   - user query : বিয়ের সময় কল্যাণীর প্রকৃত বয়স কত ছিল?
+   - output : ১৫ বছর
 
 4. API documentation
-   Description : Accepts the user qury and returns an answer generated based on the context from the document
-   Request body :
-     {
-       "query":"question"
-     }
-
-   Response :
-     {
-       "answer" : "generate_answer"
-     }
+   - Description: This REST API accepts a user query and returns an answer generated from the most relevant context in the document using a RAG (Retrieval-Augmented Generation) pipeline.
 
 5. Evaluation Metrics
-   Groundness score is calculated in the [Rag-_evaluation.ipynb] file
+  - Groundness score is calculated in the [Rag-_evaluation.ipynb] file
